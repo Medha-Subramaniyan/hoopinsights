@@ -1,4 +1,4 @@
-# hoopinsights
+# Hoop Insights Small Project
 Uncovering Player Talent (2014–2017)
 
 A small mini-project to practice PostgreSQL to Tableau workflow using player performance data from the NBA (2014–2015) and WNBA (2016–2017).
